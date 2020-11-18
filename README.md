@@ -39,7 +39,7 @@ hi iam devika
 
 [CLICK ME](https://github.com/Gayathri-velicheti/reactjs_nov16)
 
-![hell](https://github.com/Gayathri-velicheti/reactjs_nov16)
+![hell](google.com)
 
 ~hello everyone~
 
