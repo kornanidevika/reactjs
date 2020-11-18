@@ -6,7 +6,7 @@
 ###### reactjs
 hi iam devika
 
-*hi ian devika*
+*hi iam devika*
 
 **hi iam devika**
 
@@ -36,6 +36,7 @@ hi iam devika
 | bb | 218 | bb@gmail.com |
 
 #Link
+
 [CLICK ME](https://github.com/Gayathri-velicheti/reactjs_nov16)
 
 ![hell](https://github.com/Gayathri-velicheti/reactjs_nov16)
