@@ -15,13 +15,17 @@ hi iam devika
 #Order list
 
 1.mango
+
 2.orange
+
 3.apple
 
 #Unordered list
 
 -mango
+
 -apple
+
 -grapes
 
 #Table
@@ -32,9 +36,9 @@ hi iam devika
 | bb | 218 | bb@gmail.com |
 
 #Link
-[CLICK ME](paste link)
+[CLICK ME](https://github.com/Gayathri-velicheti/reactjs_nov16)
 
-![hell](paste link)
+![hell](https://github.com/Gayathri-velicheti/reactjs_nov16)
 
 ~hello everyone~
 
